@@ -15,6 +15,7 @@ public class DpllDemo {
 		displayDPLLSatisfiableStatus("A & ~A");
 		displayDPLLSatisfiableStatus("(A | ~A) & (A | B)");
 		displayDPLLSatisfiableStatus("(A | ~A) & (A | B)");
+		// test comment 
 	}
 
 	public static void displayDPLLSatisfiableStatus(String query) {
